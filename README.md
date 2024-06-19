@@ -2,7 +2,7 @@
 Ejercicios de Acepta el reto (www.aceptaelreto.com)
 
 # Leet Code Problems
-Programming problems from its [web site](https://leetcode.com) 
+Programming problems from https://leetcode.com 
 
 # UVA ONLINE JUDGE
-Programming problems from its [web site](https://onlinejudge.org)
+Programming problems from https://onlinejudge.org
